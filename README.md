@@ -10,8 +10,8 @@
 ## Project Responsibilities 
 
 #### Team Work:  Pre evaluations of all data and deciding on the specific data to be used for project analysis. Data was split among members for cleaning individually.
-### Cory: setting up and maintain project master data in GITHUB, Data Cleaning (XX datasets),
-### Ian:Data Cleaning (XX datasets),
+### Cory: setting up and maintain project master data in GITHUB, Data Cleaning (XX datasets), merging different data into a single cleaned data
+### Ian:Data Cleaning (XX datasets), evaluated 
 ### Michael: Data Cleaning (XX datasets),
 
  listing project members, goals, responsibilities, and a summary of the files in the repository
