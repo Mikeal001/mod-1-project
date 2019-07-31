@@ -5,7 +5,7 @@
 ### Cory, Ian, Michael
 
 ## Project Goal: 
-########### The focus is to present findings on the best VIDEO CONTENT that MICROSOFT could consider venturing into. The Project considered a number of movies industry data from different sources. 
+### The focus is to present findings on the best VIDEO CONTENT that MICROSOFT could consider venturing into. The Project considered a number of movies industry data from different sources. 
 
 ## Project Responsibilities 
 
