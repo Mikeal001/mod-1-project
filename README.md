@@ -14,4 +14,14 @@
 ### Ian:Data Cleaning (XX datasets), evaluated 
 ### Michael: Data Cleaning (XX datasets),
 
- listing project members, goals, responsibilities, and a summary of the files in the repository
+
+## Summary of the files in the repository
+#### initial datasets*<data_exploration)>
+#### merged cleaned dataset <processed_data>
+#### vizualization datasets <visualizations>
+#### technical notebook<Microsoft_Movie_Investments.ipynb>
+#### 2 py files for technical notebook <'preprocessor.py', 'visualizations.py'>
+#### narrative notebook<find names on Cory's github (Pballer)>
+#### graphics for narrative (under 'visualizations' folder)
+#### README.md
+#### slides<not downloaded or named yet>
